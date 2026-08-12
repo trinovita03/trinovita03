@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Tri Novita
 
 ### Informatics Engineering Student at the University of Lampung
