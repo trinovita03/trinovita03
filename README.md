@@ -1,5 +1,15 @@
 ## Hi there 👋
+# Hi 👋, I'm Tri Novita
 
+### Informatics Engineering Student at the University of Lampung
+
+* 💻 I'm currently focused on building full-stack web applications and exploring Machine Learning & Deep Learning.
+* 🚀 Passionate about turning data and logic into functional digital solutions, from healthcare management systems to AI based image detection.
+* 🛠️ Tech Stack: Python, PyTorch, Streamlit, Laravel, SQL, Git, JavaScript,and AppSheet
+* 📫 How to reach me: You can connect with me on LinkedIn or check out my repositories below!
+
+Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tri-novita0311)
 <!--
 **trinovita03/trinovita03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
